@@ -18,6 +18,8 @@ Here are some ideas to get you started:
 
 </div>
 
+Github Status
 ![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=jeongtaek06&show_icons=true&theme=radical&count_private=true)
 
+Top Languages
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jeongtaek06&layout=compact&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
