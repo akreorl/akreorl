@@ -21,8 +21,8 @@ Here are some ideas to get you started:
 
 #### Github Status
 
-![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=jeongtaek06&show_icons=true&theme=radical&count_private=true)
+![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=jeongtaek06&show_icons=true&bg_color=30,e96443,904e95&title_color=fff&text_color=fff&count_private=true)
 
 #### Top Languages
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jeongtaek06&layout=compact&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jeongtaek06&layout=compact&bg_color=30,e96443,904e95&title_color=fff&text_color=fff)](https://github.com/anuraghazra/github-readme-stats)
